@@ -4,9 +4,7 @@
 - 🐍 estudando python
 - 🎲 futuro SGBD
 - 🚗 paixão por JDM
-- 🤓 animes
-- 🤵 pronouns: ele/dele
- 
+- 🤵 animes
  
 ## Opa! Muito obrigado por me visitar! aproveita e me segue.
 <div align="center">
@@ -18,7 +16,7 @@
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="santz-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="santz-PD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="right" alt="santz-anm" height="150" style="border-radius:50px;" src="https://c.tenor.com/fSx0yJ3dtXgAAAAC/anime-hatsune.gif">
+  <img align="right" alt="santz-anm" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif">
 </div>
 
 ##
