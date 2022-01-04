@@ -9,7 +9,7 @@
 ## Opa! Muito obrigado por me visitar! aproveita e me segue.
 <div align="center">
   <a href="https://https://www.instagram.com/di3go.santos_/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSantZ&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSantZ&show_icons=true&theme=github_darkt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantZ&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
   <div style="display: inline_block"><br>
