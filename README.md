@@ -1,12 +1,12 @@
-### Olá! bem vindo ao meu perfil :)
+### Hi! welcome to my profile :)
 
-- 👨‍💻 estudando database
-- 🐍 estudando python
-- 🎲 futuro SGBD
-- 🚗 paixão por JDM
+- 👨‍💻 DataBAse
+- 🐍 python
+- 🎲 DBA
+- 🚗 JDM Culture
 - 🤵 animes
  
-##Muito obrigado por me visitar! aproveita e me segue.
+##Thank you so much for visiting me! enjoy and follow me.
 <div align="center">
   <a href="https://https://www.instagram.com/di3go.santos_/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSantZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
