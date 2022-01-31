@@ -3,8 +3,7 @@
 - 👨‍💻 DataBAse
 - 🐍 python
 - 🎲 DBA
-- 🚗 JDM Culture
-- 🤵 animes
+- Studying database at Estácio ❖ 
  
 ##Thank you so much for visiting me! enjoy and follow me.
 <div align="center">
@@ -16,7 +15,6 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="santz-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="santz-PD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="right" alt="santz-anm" height="150" style="border-radius:50px;" src="https://academy.vcsis.com.br/wp-content/uploads/2016/09/Negocios-na-internet-02.gif">
 </div>
 
