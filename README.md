@@ -1,6 +1,5 @@
 ### Hi! welcome to my profile :)
 
-- 👨‍💻 DataBAse
 - 🐍 python
 - 🎲 DBA
 - Studying database at Estácio ❖ 
