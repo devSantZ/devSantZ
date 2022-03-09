@@ -12,8 +12,6 @@
 
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="santz-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="right" alt="santz-anm" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/media/4678b4735a8193072cf81d35fa8e2fc4.gif">
 </div>
 
