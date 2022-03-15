@@ -1,10 +1,13 @@
-### Hi! welcome to my profile :)
-
+### Oii! Bem vindo ao meu perfil :)
+📚 Learning:
+- :sparkles: HTMl / CSS / JavaScript
 - 🐍 python
 - 🎲 DBA
-- Studying database at Estácio ❖ 
+- :bulb: Atualmente curos Banco de Dados na Etácio, tenho como objetivo me tornar 
+um dev backend, mas não me limito apenas a isso. Aberto sempre para novos desafios!
+
  
-##Thank you so much for visiting me! enjoy and follow me.
+##Obrigado pela visita, aproveita e me segue.
 <div align="center">
   <a href="https://https://www.instagram.com/di3go.santos_/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSantZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
