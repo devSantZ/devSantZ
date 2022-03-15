@@ -1,10 +1,11 @@
 ### Oii! Bem vindo ao meu perfil :)
 📚 Learning:
 - :sparkles: HTMl / CSS / JavaScript
-- 🐍 python
-- 🎲 DBA
-- :bulb: Atualmente curos Banco de Dados na Etácio, tenho como objetivo me tornar 
-um dev backend, mas não me limito apenas a isso. Aberto sempre para novos desafios!
+- 🐍 Python
+- 🎲 DataBase
+- :bulb: Atualmente estudo Banco de Dados na Etácio, tenho como objetivo me tornar 
+um dev backend, mas não me limito apenas a isso. Aberto sempre para novos desafios!!!
+- :incoming_envelope: contate-me: dieboas88@gmail.com
 
  
 ##Obrigado pela visita, aproveita e me segue.
