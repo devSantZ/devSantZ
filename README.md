@@ -15,8 +15,20 @@
   <img align="right" alt="santz-anm" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/media/4678b4735a8193072cf81d35fa8e2fc4.gif">
 </div>
 
-##
+
+ <div style="display: inline_block"><br>
+  <img align="center" alt="SantZ-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="SantZ-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SantZ-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="SantZ-py" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SantZ-py" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
+ 
+  
+</div>
+ 
+ ##
+ 
 <div>
     <a href="https://www.youtube.com/channel/UC9iCJx60IbmYJuYpaGLwWbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/diegoo.santosz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
