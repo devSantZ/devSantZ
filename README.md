@@ -1,6 +1,6 @@
 ### Oii! Bem vindo ao meu perfil :)
 📚 Learning:
-- :sparkles: HTMl / CSS / JavaScript
+- :sparkles: HTML / CSS / JavaScript
 - 🐍 Python
 - 🎲 DataBase
 - :bulb: Atualmente estudo Banco de Dados na Etácio, tenho como objetivo me tornar 
