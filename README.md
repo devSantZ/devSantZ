@@ -1,3 +1,5 @@
+<img align="right" height="130" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/media/4678b4735a8193072cf81d35fa8e2fc4.gif" border="0" alt="gif maker"></a>
+
 ### Oii! Bem vindo ao meu perfil :)
 📚 Learning:
 - :sparkles: HTML / CSS / JavaScript
@@ -15,12 +17,6 @@ um dev backend, mas não me limito apenas a isso. Aberto sempre para novos desaf
   <a href="https://https://www.instagram.com/di3go.santos_/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSantZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantZ&layout=compact&langs_count=16&theme=github_dark"/>
-
-</div>
-  <div style="display: inline_block"><br>
-  <img align="right" alt="santz-anm" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/media/4678b4735a8193072cf81d35fa8e2fc4.gif">
-</div>
-
 
  <div style="display: inline_block"><br>
   <img align="center" alt="SantZ-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
