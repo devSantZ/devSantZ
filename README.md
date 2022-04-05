@@ -2,11 +2,8 @@
 
 ### Oii! Bem vindo ao meu perfil :)
 📚 Learning:
-- :sparkles: HTML / CSS / JavaScript
 - 🐍 Python
 - 🎲 DataBase
-- :bulb: Atualmente estudo Banco de Dados na Etácio, tenho como objetivo me tornar 
-um dev backend, mas não me limito apenas a isso. Aberto sempre para novos desafios!!!
 - :incoming_envelope: contate-me: dieboas88@gmail.com
 
 - https://devsantz.github.io/DiegoSantos/
