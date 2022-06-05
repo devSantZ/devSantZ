@@ -10,7 +10,7 @@
   <a href="https://github.com/devSantZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSantZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantZ&layout=compact&langs_count=16&theme=github_dark"/>
- </div>
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="SantZ-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
