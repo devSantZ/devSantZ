@@ -1,9 +1,9 @@
 <img align="right" height="140" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/media/4678b4735a8193072cf81d35fa8e2fc4.gif" border="90" alt="gif maker">
 
-### Olá, Bem vindo ao meu perfil!! me chamo Diego, desenvolvedor Python BackEnd!
+### Olá, Bem vindo ao meu perfil!! me chamo Diego, Analista de Dados Python!
 📚 Learning:
 - Python | SQL | Excel
-- Currículo: migly.in/EpHV
+- Currículo: l1nq.com/kYxVi
 
 - :incoming_envelope: contate-me: osantz.dev@gmail.com
 
