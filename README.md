@@ -2,8 +2,8 @@
 
 ### Olá, Bem vindo ao meu perfil!! me chamo Diego, desenvolvedor Python BackEnd!
 📚 Learning:
-- Python | Django | DataBase
-- Currículo: l1nq.com/kYxVi
+- Python | SQL | Excel
+- Currículo: migly.in/EpHV
 
 - :incoming_envelope: contate-me: osantz.dev@gmail.com
 
