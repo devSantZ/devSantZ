@@ -1,31 +1,50 @@
-<img align="right" height="140" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/media/4678b4735a8193072cf81d35fa8e2fc4.gif" border="90" alt="gif maker">
+<h2 align="left">Opa! Obrigado pela visita. 👋🏽</h2>
 
-### Olá, Bem vindo ao meu perfil!! me chamo Diego, Analista de Dados Python!
-📚 Learning:
-- Python | SQL | Excel
-- Currículo: l1nq.com/kYxVi
+###
+<h3 align="left">🧑🏽‍💻 Olá, Bem vindo ao meu perfil!! me chamo Diego, Analista de Dados Python!</h3>
 
-- :incoming_envelope: contate-me: osantz.dev@gmail.com
+###
+<h4 align="left">Learning 📚</h4>
 
+###
+<h4 align="left">🐍    Python<br>💻    GIT<br>📈    SQL<br>✅    Excel</h4>
+
+<div align="right">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+###
+
+###
 <div align="center">
-  <a href="https://github.com/devSantZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSantZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantZ&layout=compact&langs_count=16&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&username=devSantZ" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=react&hide_border=false&username=devSantZ" height="150" alt="languages graph"  />
+</div>
 
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="SantZ-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="SantZ-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SantZ-py" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="SantZ-dj" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="SantZ-py" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="55" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="55" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="55" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="55" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="55" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" alt="linux logo"  />
 </div>
- 
- ##
- 
-<div>
-    <a href="https://www.youtube.com/channel/UC9iCJx60IbmYJuYpaGLwWbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/diegoo.santosz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href=https://www.linkedin.com/in/diego-santos-b84538215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-    
+
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/devdiegosantos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/diegoo.santosz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC9iCJx60IbmYJuYpaGLwWbw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
 </div>
+
+###
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=devSantZ.devSantZ&left_color=darkcyan&right_color=blue&left_text=visitas"  />
+
+###
