@@ -1,13 +1,13 @@
 <h2 align="left">Opa! Obrigado pela visita. 👋🏽</h2>
 
 ###
-<h3 align="left">🧑🏽‍💻 Olá, Bem vindo ao meu perfil!! me chamo Diego, Analista de Dados Python!</h3>
+<h3 align="left">🧑🏽‍💻 Olá, Bem vindo ao meu perfil!! me chamo Diego, Desenvolvedor backend Python!</h3>
 
 ###
-<h4 align="left">Learning 📚</h4>
+<h4 align="left">Minhas skills 📚</h4>
 
 ###
-<h4 align="left">🐍    Python<br>💻    GIT<br>📈    SQL<br>✅    Excel</h4>
+<h4 align="left">🐍    Python<br>🟠    GIT<br> 🟢     Django<br>🔵    Sqlite | PostegreSql</h4>
 
 
 
@@ -21,12 +21,12 @@
 
 ###
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="55" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="55" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="55" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="55" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="55" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="55" alt="python"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="55" alt="django"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="55" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="55" alt="postgresql"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" width="55" alt="sqlite"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" alt="linux "  />
 </div>
 
 ###
