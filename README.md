@@ -1,13 +1,13 @@
 <h2 align="left">Opa! Obrigado pela visita. 👋🏽</h2>
 
 ###
-<h3 align="left">🧑🏽‍💻 Olá, Bem vindo ao meu perfil!! me chamo Diego, Desenvolvedor backend Python!</h3>
+<h3 align="left">🧑🏽‍💻Bem vindo ao meu perfil!! me chamo Diego, Desenvolvedor backend Python!</h3>
 
 ###
 <h4 align="left">Minhas skills 📚</h4>
 
 ###
-<h4 align="left">🐍    Python<br>🟠    GIT<br> 🟢     Django<br>🔵    Sqlite | PostegreSql</h4>
+<h4 align="left">🐍    Python<br> 🟢     Django<br>🟠    GIT<br>🔵    Sqlite | PostegreSql</h4>
 
 
 
