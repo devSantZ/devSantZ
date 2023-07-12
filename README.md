@@ -1,4 +1,5 @@
 ![capa github](image.gif)
+
 <center>
   <table>
     <tr>
@@ -16,5 +17,4 @@
 
 👾 Free Software enthusiast
 
-🐍 Stay calm, read the [zeen](https://peps.python.org/pep-0020/) 
-
+🐍 Stay calm, read the [zeen](https://peps.python.org/pep-0020/)
