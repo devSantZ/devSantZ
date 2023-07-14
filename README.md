@@ -13,5 +13,5 @@
 
 
 <div align="center"> 
-   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantZ&theme=transparent&layout=compact&hide_border=true" />
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantZ&theme=gotham&layout=compact&hide_border=true" />
   </div> 
