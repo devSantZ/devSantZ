@@ -12,6 +12,3 @@
      <img align="center" alt="Linux-santz" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/256/226/226772.png">
 
 
-<div align="center"> 
-   <img height=115em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantZ&theme=gotham&layout=compact&hide_border=true" />
-  </div> 
