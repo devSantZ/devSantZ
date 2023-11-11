@@ -1,6 +1,3 @@
-<h1 align="center"><img src="lambda.png" alt="lambda" align="center" width="7%"/> "Python for Fun... and money"</h1>
-     <a href="https://github.com/zbkllz">
-
      
 <div align="center">
      <img align="center" alt="Pycharm-santz" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
